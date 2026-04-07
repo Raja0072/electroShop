@@ -2,7 +2,7 @@
 // ════════════════════════════════════════════════════════════
 //  CONFIG — Change base URL to your Spring Boot server
 // ════════════════════════════════════════════════════════════
-const API = 'http://localhost:8080/api';
+const API = '';
 
 // ════════════════════════════════════════════════════════════
 //  LOCAL STATE (mirrors DB, used for offline-like experience)
